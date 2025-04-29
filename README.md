@@ -10,11 +10,10 @@ This project is a simple portfolio website created for the Web Development group
 - CSS3
 - Bootstrap 5
 
-## Group Members
+## Group Contributors
 
-- [Member 1 Name]
-- [Member 2 Name]
-- [Member 3 Name]
+- Nelson Mwosa @Mwosa
+- Oyugi Mourice @oyugijr
 
 ## Approach
 
